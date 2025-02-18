@@ -9,7 +9,7 @@
 CREATE TABLE tbl1  
 (  
     UserID UInt64,  
-    PageViews UInt8,  
+    PageViews UInt8, 
     Duration UInt8,  
     Sign Int8,  
     Version UInt8  
